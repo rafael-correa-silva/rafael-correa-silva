@@ -61,11 +61,11 @@ const rafael = {
 
 | 🏗 Project | 🛠 Stack | 🔗 Repositório |
 |:---|:---|:---:|
-| Modern Landing Pages | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU-USERNAME/nome-do-repo-aqui) |
-| Responsive Interfaces | HTML · CSS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU-USERNAME/nome-do-repo-aqui) |
-| Institutional Websites | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU-USERNAME/nome-do-repo-aqui) |
+| Modern Landing Pages | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/rafael-correa-silva/My-Websites/tree/main/landing-page/landing-page) |
+| Responsive Interfaces | HTML · CSS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/rafael-correa-silva/My-Websites/tree/main/site-Rafael) |
+| Institutional Websites | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/rafael-correa-silva/My-Studies/tree/main/projetos-de-estudos/projeto-igreja) |
 | UI/UX Focused Layouts | CSS · Figma | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU-USERNAME/nome-do-repo-aqui) |
-| Personal Front-End Projects | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU-USERNAME/nome-do-repo-aqui) |
+| Personal Front-End Projects | HTML · CSS · JS | [![Repo](https://img.shields.io/badge/Ver%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/rafael-correa-silva/My-Studies/tree/main/projetos-de-estudos/projeto-android) |
 
 > 💡 *More projects coming soon — stay tuned!*
 
