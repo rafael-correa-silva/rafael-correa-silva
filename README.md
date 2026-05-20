@@ -1,10 +1,10 @@
+<div align="center">
+
 # Rafael Corrêa Silva
 
-<div align="center">
-  
 💻 Front-End Developer in Progress  
 🎓 Computer Science Student  
-🚀 Focused on Modern Web Development  
+🚀 Focused on Modern Web Development & Responsive Interfaces  
 
 </div>
 
@@ -12,11 +12,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying Computer Science at Estácio
-- 💡 Focused on Front-End Development
-- 🌎 Interested in responsive and modern interfaces
-- 📚 Constantly improving my programming skills
-- 🚀 Looking for my first internship opportunity
+I'm a Computer Science student passionate about technology and web development.  
+Currently focused on Front-End development, creating modern, responsive and user-friendly interfaces while continuously improving my programming and problem-solving skills.
+
+I'm looking for my first internship opportunity to grow professionally, gain real-world experience and contribute to meaningful projects.
 
 ---
 
@@ -54,9 +53,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafael-correa-silva&show_icons=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-correa-silva&layout=compact" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -68,3 +67,5 @@
 📧 rafaelcorsil2006@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-correa-silva)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_coorreea)
