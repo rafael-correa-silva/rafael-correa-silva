@@ -75,25 +75,24 @@ const rafael = {
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ IMPORTANTE: substitua SEU-USERNAME pelo seu usuário real do GitHub nas 4 linhas abaixo -->
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&border_radius=12&count_private=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=rafael-correa-silva&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&border_radius=12&count_private=true" />
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-correa-silva&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SEU-USERNAME&theme=transparent&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&border_radius=12" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rafael-correa-silva&theme=transparent&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&border_radius=12" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=rafael-correa-silva&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
